@@ -40,7 +40,7 @@ model-index:
 
 # OpenPeerLLM: A Decentralized Large Language Model
 
-[![DOI](https://img.shields.io/badge/DOI-10.57967%2Fhf%2F6469-blue.svg)](https://doi.org/10.57967/hf/6469)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17179183-blue.svg)](https://doi.org/10.5281/zenodo.17179183)
 
 This project implements a decentralized Large Language Model (LLM) that utilizes DecentTorch, Huggingface Transformers, BOINC, and the decentralized-internet SDK. The model incorporates LonScript grammar for enhanced language understanding and leverages OpenPeer for decentralized training and inference.
 
@@ -205,5 +205,6 @@ This project is licensed under multiple licenses to ensure maximum flexibility a
 ```
 
 ## Contributing
+
 
 Contributions are welcome! Please feel free to submit a Pull Request.

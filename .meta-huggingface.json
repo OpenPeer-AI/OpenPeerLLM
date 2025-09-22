@@ -1,0 +1,28 @@
+{
+    "modelcard": {
+        "language": ["en"],
+        "license": ["MIT", "OPNL", "OPNL-2", "CC-BY-4.0"],
+        "library_name": "transformers",
+        "tags": ["openpeer-llm", "decentralized", "transformer", "peer-to-peer"],
+        "model-type": "causal-language-model",
+        "authors": ["Andrew Magdy Kamal Nassief"],
+        "organization": "Riemann Computing Inc.",
+        "creation_date": "2025-09-13"
+    },
+    "base_model": null,
+    "tags": [
+        "pytorch",
+        "causal-lm",
+        "deep-learning",
+        "transformers",
+        "decentralized",
+        "peer-to-peer"
+    ],
+    "widget": {
+        "structured_model_output": false,
+        "example_inputs": [
+            "Act as a software developer. Explain the concept of decentralized computing and how it can be applied to machine learning models."
+        ]
+    },
+    "datasets": ["fka/awesome-chatgpt-prompts"]
+}

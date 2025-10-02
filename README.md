@@ -40,7 +40,7 @@ model-index:
 
 # OpenPeerLLM: A Decentralized Large Language Model
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17179183-blue.svg)](https://doi.org/10.5281/zenodo.17179183)
+[![DOI](https://img.shields.io/badge/DOI-10.57967%2Fhf%2F6469-blue.svg)](https://doi.org/10.57967/hf/6469)
 
 This project implements a decentralized Large Language Model (LLM) that utilizes DecentTorch, Huggingface Transformers, BOINC, and the decentralized-internet SDK. The model incorporates LonScript grammar for enhanced language understanding and leverages OpenPeer for decentralized training and inference.
 
@@ -137,6 +137,13 @@ Our evaluation metrics were computed using the following methodology:
    - Measured across distributed training operations
    - Accounts for node synchronization success
 
+#### Example Prompts
+![Prompt Sample](https://raw.githubusercontent.com/Mentors4EDU/Images/refs/heads/master/prompt_example.jpg)
+
+**Test Tokenizer:** https://www.kaggle.com/code/quantportal/test-tokenizer/
+
+**Default Notebook:** https://www.kaggle.com/code/quantportal/openpeerllm-base-notebook
+
 #### Metric Descriptions
 
 - **Training Progress**: Two complete dataset passes, processing 160,000 total samples through 20,000 batched steps.
@@ -205,6 +212,5 @@ This project is licensed under multiple licenses to ensure maximum flexibility a
 ```
 
 ## Contributing
-
 
 Contributions are welcome! Please feel free to submit a Pull Request.

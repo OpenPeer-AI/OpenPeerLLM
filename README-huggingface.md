@@ -145,6 +145,13 @@ Our evaluation metrics were computed using the following methodology:
    - Measured across distributed training operations
    - Accounts for node synchronization success
 
+#### Example Prompts
+![Prompt Sample](https://raw.githubusercontent.com/Mentors4EDU/Images/refs/heads/master/prompt_example.jpg)
+
+**Test Tokenizer:** https://www.kaggle.com/code/quantportal/test-tokenizer/
+
+**Default Notebook:** https://www.kaggle.com/code/quantportal/openpeerllm-base-notebook
+
 #### Metric Descriptions
 
 - **Training Progress**: Two complete dataset passes, processing 160,000 total samples through 20,000 batched steps.
